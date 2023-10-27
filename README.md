@@ -19,8 +19,8 @@ Depois de iniciar o servidor, você pode acessar as seguintes rotas:
 
 - [http://localhost:8080/](http://localhost:8080/): Página inicial.
 - [http://localhost:8080/veiculomaisantigo](http://localhost:8080/veiculomaisantigo): Veiculos mais antigo.
-- [http://localhost:8080/Carro](http://localhost:8080/Carro): Acelerando o Carro.
-- [http://localhost:8080/Moto](http://localhost:8080/moto): Acelerando a Moto.
+- [http://localhost:8080/carro](http://localhost:8080/carro): Acelerando o Carro.
+- [http://localhost:8080/moto](http://localhost:8080/moto): Acelerando a Moto.
 
 ⚠️ Certifique-se de que o servidor Jetty esteja em execução antes de acessar as rotas!
 
